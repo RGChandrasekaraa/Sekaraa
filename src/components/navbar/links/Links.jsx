@@ -24,7 +24,7 @@ const Links = () => {
   ];
 
   const [open, setOpen] = useState(false);
-  // temp
+  // temporary session and isAdmin values
   const session = true;
   const isAdmin = false;
 
